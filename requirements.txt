@@ -1,0 +1,7 @@
+django
+flask
+flask-ngrok
+fastapi
+nest-asyncio
+pyngrok
+uvicorn
